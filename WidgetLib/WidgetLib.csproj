@@ -1,14 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <PackageId>WdigetLib</PackageId>
+    <PackageId>WidgetLib</PackageId>
     <Version>5.0.0</Version>
-    <Title>WdigetLib</Title>
+    <Title>WidgetLib</Title>
     <Authors>dmanning23</Authors>
     <description>A couple of standard widgets for creating tools with the MonoGame based MenuBuddy project</description>
-    <PackageProjectUrl>https://github.com/dmanning23/WdigetLib</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/dmanning23/WidgetLib</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/dmanning23/WdigetLib</RepositoryUrl>
+    <RepositoryUrl>https://github.com/dmanning23/WidgetLib</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>monogame</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
